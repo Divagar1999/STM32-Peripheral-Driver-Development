@@ -73,4 +73,7 @@ Register addresses, clock-enable bits, and GPIO register availability must be ta
 ![User_Button_Schematics](images/User_Button_Schematics.png)
 ![LED_Schematics](images/LED_Schematics.png)
 
+## 📹 Output
+[![Watch the demo](https://img.youtube.com/vi/xgbcrvwltgk/0.jpg)](https://youtu.be/xgbcrvwltgk)
+
 ## 📂 Repository Structure

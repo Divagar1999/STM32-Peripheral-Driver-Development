@@ -34,4 +34,8 @@ This project demonstrates toggling the built-in LED (PG8) using the built-in use
 ![User_Button_Schematics](images/User_Button_Schematics.png)
 ![LED_Schematics](images/LED_Schematics.png)
 
+## 📹 Output
+[![Watch the demo](https://img.youtube.com/vi/JqivX8sdjGM/0.jpg)](https://youtu.be/JqivX8sdjGM)
+
+
 ## 📂 Repository Structure
